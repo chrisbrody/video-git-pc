@@ -1,0 +1,56 @@
+GIT 1.1 - Intro to video for git
+GIT 1.2 - Going to git-scm.com
+GIT 1.3 - Installing Git
+GIT 1.4 - Confirm Install for git
+GIT 1.5 - Configure git
+GIT 1.6 - Outro to video for git
+
+
+
+GIT 1.1 - Intro to video for git
+Chris from Codify Academy here.
+
+In this video i'm going to show you how to install and configure Git for your computer.
+
+
+
+
+
+GIT 1.2 - Going to git-scm.com
+In the future we'll use Git  to send code to Github
+but for now open up a chrome tab and go to git hyphen scm.com
+It recognizes your operating system so just click download.
+
+
+
+GIT 1.3 - Installing Git
+Once it finishes downloading left click it to start the installation process.
+
+Right click on the downloaded git file and select open and click open again.
+
+then click continue, then install and enter your password, now wait till it finishes installing
+
+
+
+GIT 1.4 - Confirm Install for git
+Lets confirm git is installed, use command + spacebar at the same time  to bring up your spotlight and search for a program called terminal
+and in this terminal we're going to type "git --version" into the prompt and press enter.  You should see a version like 2.6.2, only thing that matters is a version shows up.
+
+
+
+GIT 1.5 - Configure git
+once you can see a version then we can config git for this computer.
+
+the first command is git config --global user.name "Your Name Here"
+you can confirm it worked by hitting the up arrow key to reveal your last command, delete the name and quotes and press enter.
+You should see your name you added in quotes.
+
+Next command is git config --global user.email "codifytest@mail.com"
+again you can confirm it worked by hitting the up arrow key to reveal your last command, delete the email and quotes and press enter.
+You should see your email you added in quotes.
+
+
+
+
+GIT 1.6 - Outro to video for git
+Well thats it, Goodjob, soon we'll learn how to send code to github using git on the command prompt, then you'll be able to access your code from anywhere, anytime on any computer just like other developers!
